@@ -52,7 +52,7 @@ strong {
 
 /* Landing Page */
 header {
-  background-image: url(/resources/images/banner-landingpage.jpg);
+  background-image: url('https://raw.githubusercontent.com/chrsomle/fotomatic/master/resources/images/banner-landingpage.jpg');
   background-size: cover;
   display: flex;
   align-items: center;
